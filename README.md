@@ -1,3 +1,5 @@
+<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+
 #### Привет, меня зовут Константин (@Stern-Ritter).
 #### Немного обо мне <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
 Занимаюсь backend-разработкой, люблю решать алгоритмические задачи, писать тесты и изучать новые технологии.  
@@ -49,9 +51,6 @@
 ИСОТ МГТУ им. Н.Э. Баумана: Профессиональная переподготовка "Программирование на языках C/C++/C#", Январь 2018—Декабрь 2019 (1 год и 11 месяцев)  
 ГУУ - 'Менеджмент', Сентябрь 2009—Сентябрь 2014 (5 лет)
 
-#### 🧩  Алгоритмические задачи:
-![Codewars](https://github.r2v.ch/codewars?user=Stern-Ritter)  
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Stern_Ritter&theme=dark)](https://github.com/Stern_Ritter/leetcode-stats)
 #### 📈  Статистика:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Stern-Ritter&show_icons=true&theme=dark)  
 ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Stern-Ritter&theme=dark)  
