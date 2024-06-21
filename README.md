@@ -1,35 +1,41 @@
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2hzcHM1N3VyN216MGJjNXNmbnpleTE0cW93Z21senVvM2VlajNqaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dM3sLZSvzk2mMf0cQj/giphy.gif" width=150>
-  
-<div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge">
-  <a href="t.me/depechist"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"></a>
-</div>
+![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
+![mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
+![react-native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![dot-net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
 
-## Hi there, I'm Artem 👋 
-stay calm, write some code and listen to Depeche Mode
-</div>
+#### 📋  Проекты backend: 
+ - **Yandex Practicum (Go Developer):**
+      - **Система лояльности для интернет-магазина Gophermart** - HTTP API для управления учётными записями пользователей и их накопительными счетами в рамках программы лояльности интернет-магазина. [[Repo]](https://github.com/Stern-Ritter/gophermart)
+      - **Сервис сбора метрик и алертинга** - Сервер для сбора runtime метрик, который собирает репорты от агентов по протоколу HTTP. [[Repo]](https://github.com/Stern-Ritter/metrics-and-alerting-service)
+      - **Планировщик задач** - HTTP API реализующее функциональность планировщика задач (TODO-листа). [[Repo]](https://github.com/Stern-Ritter/go_task_manager)
+ - **Otus (Go Developer. Professional):**
+      - **Практические работы по курсу** [[Repo]](https://github.com/Stern-Ritter/go-professional)
 
+#### 📋  Проекты frontend:
+ - **Yandex Practicum (Junior Frontend Developer):**
+      - **Stellar Burgers** - Приложение космической бургерной, позволяющее пользователям оформить онлайн заказ, самостоятельно собрав бургер по своему вкусу. В приложении можно отслеживать готовность заказа и посмотреть все свои заказы, также предусмотрена регистрация и авторизация пользователей. [[Repo]](https://github.com/Stern-Ritter/stellar-burgers)
+      - **Место** - Проект позволяет делиться своими фотографиями с другими пользователями: добавлять и удалять фотографии, редактировать их описание, а также ставить фотографиям лайки. [[Repo]](https://github.com/Stern-Ritter/mesto-project-pair-programming)
+      - **Когда вырасту** - Блог для IT-специалистов с возможностью регистрации и авторизации, написания и публикации статей, возможностью добавления статьям тегов и фильтрации по тегам, возможностью добавлять для постов лайки. [[Repo]](https://github.com/Stern-Ritter/kogda-virastu-frontend)
+      - **Любимовка** - Данный проект посвящен созданию сайта для фестиваля молодой драматургии 'Любимовка' (независимый некоммерческий коллективный проект российских драматургов). 'Любимовка' открывает театральному миру новых авторов, дает начинающим авторам возможность найти свой голос и быть услышанными, обогащает отечественный театр качественными новыми пьесами, актуальными для современного зрителя. [[Repo]](https://github.com/Stern-Ritter/lubimovka)
+      - **МБОУ АЛГОСОШ им. Фибоначчи** - Возможность визуализировать работу различных алгоритмов и структур данных, таких как: строка, последовательность Фибоначчи, сортировка массивов, стек, очередь и связный список. [[Repo]](https://github.com/Stern-Ritter/algososh)
+      - **КупиПодариДай** - API для сервиса вишлистов КупиПодариДай. В нём каждый зарегистрированный пользователь может рассказать о том, какой подарок он бы хотел получить, а также скинуться на подарок для другого пользователя, указав сумму, которую готов на это потратить. [[Repo]](https://github.com/Stern-Ritter/kupipodariday-backend)
+      - **Велосипедный спорт** - Проект позволяет пользователям узнать больше о велосипедах и велосипедном спорте: узнать все про виды трас и покрытий, их особенности, выбрать себе подходящий тип велосипеда и оптимальную модель, получить информацию, которая сможет помочь в ходе тренировок. [[Repo]](https://github.com/Stern-Ritter/bikes)
+      - **Путешествие по России** - Проект расширяет представление о возможности путешествовать по России — целой вселенной с ласковым морем юга, густыми лесами и суровыми ледяными плато на севере, ее невероятной и многоликой природе, а также местах, которые стоит посетить в первую очередь. [[Repo]](https://github.com/Stern-Ritter/russian-travel)
+      - **Научиться учиться** - Проект представляет современные и эффективные подходы к обучению, которые можно использовать в повседневной жизни, раскрывает основные проблемы, принципы и методы обучения. [[Repo]](https://github.com/Stern-Ritter/how-to-learn)
 
-### :man_technologist: About Me :
-- :lotus_position_man: Studied iOS development at Yandex Practicum
-- :video_game: Playing since 1997
-- :oncoming_automobile: Passionate driver
+#### 🎓  Образование:
+ИСОТ МГТУ им. Н.Э. Баумана: Профессиональная переподготовка "Программирование на языках C/C++/C#", Январь 2018—Декабрь 2019 (1 год и 11 месяцев)  
+ГУУ - 'Менеджмент', Сентябрь 2009—Сентябрь 2014 (5 лет)
 
-### :hammer_and_wrench: Languages and Tools :
-<img src="https://skillicons.dev/icons?i=git,swift,postman,figma,stackoverflow,apple" />
-
-<!--
-**Depechist/Depechist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🧩  Алгоритмические задачи:
+![Codewars](https://github.r2v.ch/codewars?user=Stern-Ritter)  
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Stern_Ritter&theme=dark)](https://github.com/Stern_Ritter/leetcode-stats)
+#### 📈  Статистика:
+![Github stats](https://github-readme-stats.vercel.app/api?username=Stern-Ritter&show_icons=true&theme=dark)  
+![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Stern-Ritter&theme=dark)  
+<img align="left" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />  
