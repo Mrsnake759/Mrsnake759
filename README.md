@@ -1,5 +1,5 @@
 <div id="header" align="center">
- <img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen>
+ <img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360">
 </div>
 #### Привет, меня зовут Константин (@Stern-Ritter).
 #### Немного обо мне <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
