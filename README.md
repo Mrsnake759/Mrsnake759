@@ -1,3 +1,21 @@
+#### Привет, меня зовут Константин (@Stern-Ritter).
+#### Немного обо мне <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
+Занимаюсь backend-разработкой, люблю решать алгоритмические задачи, писать тесты и изучать новые технологии.  
+Много читаю, в основном научную фантастику и фэнтези, бегаю полумарафоны, люблю настолки и изометрические rpg игры. 
+#### 🔍 Контакты:
+* fadeef.k@yandex.ru
+* [Telegram](https://t.me/Stern_ritter)
+#### ⚙️ Технологии️
+- **работаю с :**  
+![go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+- **работал с :**  
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
@@ -15,8 +33,7 @@
       - **Планировщик задач** - HTTP API реализующее функциональность планировщика задач (TODO-листа). [[Repo]](https://github.com/Stern-Ritter/go_task_manager)
  - **Otus (Go Developer. Professional):**
       - **Практические работы по курсу** [[Repo]](https://github.com/Stern-Ritter/go-professional)
-
-#### 📋  Проекты frontend:
+  #### 📋  Проекты frontend:
  - **Yandex Practicum (Junior Frontend Developer):**
       - **Stellar Burgers** - Приложение космической бургерной, позволяющее пользователям оформить онлайн заказ, самостоятельно собрав бургер по своему вкусу. В приложении можно отслеживать готовность заказа и посмотреть все свои заказы, также предусмотрена регистрация и авторизация пользователей. [[Repo]](https://github.com/Stern-Ritter/stellar-burgers)
       - **Место** - Проект позволяет делиться своими фотографиями с другими пользователями: добавлять и удалять фотографии, редактировать их описание, а также ставить фотографиям лайки. [[Repo]](https://github.com/Stern-Ritter/mesto-project-pair-programming)
