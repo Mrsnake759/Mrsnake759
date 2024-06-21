@@ -58,4 +58,3 @@
 #### 📈  Статистика:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Stern-Ritter&show_icons=true&theme=dark)  
 ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Stern-Ritter&theme=dark)  
-<img align="left" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />  
