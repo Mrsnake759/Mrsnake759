@@ -1,5 +1,5 @@
 <div id="header" align="center">
- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDJpNTh2NzdmMXE5MWJpcmt4cWl5bzhkcHVjZjhudmlrdmRxMHFiMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" height="360">
+ <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDJpNTh2NzdmMXE5MWJpcmt4cWl5bzhkcHVjZjhudmlrdmRxMHFiMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" height="360" width="1000">
 </div>
 #### Привет, меня зовут Константин (@Stern-Ritter).
 #### Немного обо мне <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
