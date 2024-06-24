@@ -50,7 +50,3 @@
 
 - Яндекс Практикум, направление "Frontend разработчик"
 2022 - декабрь 2023
-
-#### 📈  Статистика:
-![Github stats](https://github-readme-stats.vercel.app/api?username=Stern-Ritter&show_icons=true&theme=dark)  
-![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Stern-Ritter&theme=dark)  
