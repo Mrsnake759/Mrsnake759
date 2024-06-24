@@ -41,6 +41,15 @@
 | ![ImageFeed](https://github.com/Dzhabaev/Dzhabaev/assets/137287126/09e0f15a-ad3b-4033-8a3d-37e6fa02b710) | **[Интерактивная галерея изображений (ImageFeed)](https://github.com/Mrsnake759/Application_ImageFeed)**<br />Для создания многостраничного приложения на основе API Unsplash<br />я активно использовал Git и многопоточность.<br />В приложении реализована авторизация через OAuth,<br />пользователи могут просматривать бесконечную ленту изображений,<br />добавлять их в избранное и делиться ссылками.<br />Я разработал удобную навигацию и интерфейс,<br />используя сторонние библиотеки для расширения функционала. | • OAuth 2.0 Authorization<br />• Auto Layout<br />• Animation<br />• UITableView<br />• UIScrollView<br />• SPM<br />• Keychain<br />• Unit-тесты<br />• UI-тесты<br />• Sourcetree<br /> |
 | ![MovieQuiz-ios](https://github.com/Dzhabaev/Dzhabaev/assets/137287126/accddef8-596c-436c-bcb1-5aca4e91c9ed) | **[Квиз по фильмам из Топ-250 IMDb (MovieQuiz-ios)](https://github.com/Mrsnake759/Aplication_MovieQuiz)**<br />Создавая квиз о фильмах, я применил MVC с ее последующим<br />рефакторингом на MVP для управления данными и интерфейсом.<br />Используя Interface Builder, я разработал привлекательный интерфейс,<br />а с помощью URLSession и URLRequest обеспечил обмен данными с сервером.<br />Приложение сохраняет пользовательские данные через User Defaults,<br />а тестирование гарантирует его стабильность. | • Figma for design<br />• Interface Builder<br />• User Defaults<br />• MVC<br/>• MVP<br/>• Refactoring<br />• URLSession<br/>• URLRequest |
 
+#### Примеры Сайтов:
+
+- [x] Место https://mrsnake759.github.io/Website_Mesto/
+- [x] Путешествия https://mrsnake759.github.io/Website_Travel/
+- [x] Велосипеды https://mrsnake759.github.io/Website_Bikes/
+- [x] How to learn https://mrsnake759.github.io/Website_HowToLearn/
+- [x] Вордпресс https://mrsnake759.github.io/Website_Wordpress/
+- [x] Убер https://mrsnake759.github.io/Website_Uber/
+- [x] Food https://mrsnake759.github.io/Website_Food/
 
 #### 🎓  Образование:
 
